@@ -9,9 +9,9 @@ export default class SettingsScreen extends React.Component {
 
   render() {
     return (
- <WebView
-        source={{uri: 'https://maldeljabali.com/blog-app/'}}
-      />
+      <ScrollView style={styles.container}>
+
+      </ScrollView>
     );
   }
 }

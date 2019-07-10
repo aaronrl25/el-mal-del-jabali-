@@ -11,6 +11,7 @@ export default class SettingsScreen extends React.Component {
     return (
  <WebView
         source={{uri: 'https://maldeljabali.com/blog-app/'}}
+        style={{marginTop: 20}}
       />
     );
   }

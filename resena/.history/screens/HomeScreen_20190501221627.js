@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import { MapView } from 'expo';
 import { AppRegistry, StyleSheet, Dimensions, View} from "react-native";
 import { Marker } from 'react-native-maps';
-import {WebView} from 'react-native';
 class MyLocation  extends Component{
   constructor(props){
     super(props);
