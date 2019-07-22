@@ -1,8 +1,7 @@
 {
   "expo": {
-    "name": "el mal del jablali",
-    "description": "las mejores reseñas ",
-    "slug": "explorarestaurantes",
+    "name": "Elmaldeljabli",
+    "slug": "resena",
     "privacy": "public",
     "sdkVersion": "32.0.0",
     "platforms": [
@@ -30,9 +29,10 @@
     },
     "android": {
       "package": "com.elmal.elmaldeljabali",
-      "versionCode": 2
+      "versionCode": 1
       
-      }
+      },
     
+    "description": ""
   }
 }
